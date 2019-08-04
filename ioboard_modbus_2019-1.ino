@@ -1,5 +1,4 @@
 /*****************************************************************************
-
   2019-08-03 -> New modbus library from https://github.com/yaacov/ArduinoModbusSlave 
              -> Input Registers (FC=04) 0 to 7 are analog inputs a/d values from 1 to 8 (read only 10 bits 0-1023)
              -> Input Registers (FC=04) 8 to 15 are analog output states from 1 to 8 (read only 0-255)
